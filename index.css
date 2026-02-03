@@ -1,0 +1,47 @@
+<!DOCTYPE html>  <html lang="pt-BR">    <head>    
+  <meta charset="UTF-8">    
+  <title>Meu Site</title>    
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+  <!-- CSS Conect -->    
+  <link rel="stylesheet" href="style.css">    
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap" rel="stylesheet">    
+</head>    
+<body>    
+    <header>    
+        <nav> 
+            <ul>    
+            <li>    
+                <a href="#home.html">Home</a>    
+            </li>    
+            <li>    
+                <a href="#sobre.html">Sobre</a>    
+            </li>    
+            <li>    
+                <a href="#portifolio.html">Portifólio</a>    
+            </li>    
+            <li>    
+                <a href="#servicos.html">Serviços</a>    
+            </li>    
+            <li>    
+                <a href="#contatos.html">Contatos</a>    
+            </li>    
+        </ul>    
+    </nav>    
+</header>    
+<section class="home">    
+    <div class="home-img">    
+         <img src="<img src="IMG_20251216_230636.jpg" alt="Descrição da imagem">    
+         <h1>Oi eu sou<span> Vithórya Dias</span></h1>    
+         <h3 class="typing-text">eu sou<span></span></h3>    
+         <p>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat.
+
+</p>    
+<div class="social-icons">    
+</div>    
+</div>    </section>    <footer>    
+    <p>© 2026 - Vithórya Dias - todos os direitos autorais reservados </p>    
+  </footer>  </body>    
+</html>    
